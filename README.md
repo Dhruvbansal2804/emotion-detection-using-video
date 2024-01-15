@@ -5,10 +5,6 @@ Description
 
 This repository contains a project focused on real-time emotion detection in videos using the OpenCV library. Emotion detection is an interesting application in computer vision, and this implementation aims to provide a straightforward and efficient solution leveraging OpenCV.
 
-Demo
-
-Watch Demo Video
-
 Features
 
 Real-time emotion detection from video input.
@@ -20,7 +16,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/emotion-detection-opencv.git
+git clone https://github.com/Dhruvbansal2804/emotion-detection-using-video.git
 Install dependencies:
 bash
 Copy code
